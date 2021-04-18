@@ -1,5 +1,23 @@
 # Recapprojectdatabase
 
+## Tüm Arabalar Ekranı
+![1](https://user-images.githubusercontent.com/70206176/115161960-4572ca00-a0a9-11eb-9794-ad7a10d3dd60.jpg)
+
+## Araba Detay Ekranı
+![2](https://user-images.githubusercontent.com/70206176/115161996-7a7f1c80-a0a9-11eb-8682-72503c0641d1.jpg)
+
+## Araba Ekleme Ekranı
+![3](https://user-images.githubusercontent.com/70206176/115161980-61766b80-a0a9-11eb-98a4-6879572afcee.jpg)
+
+## Araba Güncelleme Ekranı
+![4](https://user-images.githubusercontent.com/70206176/115162041-c16d1200-a0a9-11eb-8047-ae04174a4fa8.jpg)
+
+
+## Login & Register Ekranları
+![Ekran görüntüsü 2021-04-11 234543](https://user-images.githubusercontent.com/70206176/115162027-b1edc900-a0a9-11eb-93d3-0ba707111208.jpg)
+![Ekran görüntüsü 2021-04-11 234554](https://user-images.githubusercontent.com/70206176/115162030-b4e8b980-a0a9-11eb-91e9-1d5be90d71a9.jpg)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
