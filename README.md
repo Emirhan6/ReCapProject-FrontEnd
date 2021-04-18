@@ -1,7 +1,7 @@
 # Recapprojectdatabase
 
 ## ⭐ Introduction 
-- **Angular İle Yazılmış Araba Kiralama Projesinin FrontEnd Kodlarıdır.
+- ** Angular İle Yazılmış Araba Kiralama Projesinin FrontEnd Kodlarıdır.
 
 ## Tüm Arabalar Ekranı
 ![1](https://user-images.githubusercontent.com/70206176/115161960-4572ca00-a0a9-11eb-9794-ad7a10d3dd60.jpg)
